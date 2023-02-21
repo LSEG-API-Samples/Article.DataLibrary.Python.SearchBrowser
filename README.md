@@ -7,7 +7,7 @@ The *SearchBrowser* module is a convenient tool that greatly simplifies the chal
 Details and concepts are further explained in the [Build queries easily using Refinitiv Search API with Python and Jupyter](https://developers.refinitiv.com/en/article-catalog/article/build-expressions-with-refinitiv-search-python-jupyter-notebook) article published on the [Refinitiv Developer Community portal](https://developers.refinitiv.com).
 
 ## <a id="disclaimer"></a>Disclaimer
-The source code presented in this project has been written by Refinitiv only for the purpose of illustrating the concepts of interrogating the Search service using the *Refinitiv Data Library for Python*.
+Theï¿½source code presented in this project has been written by Refinitiv only for the purpose of illustrating the concepts of interrogating the Search service using the *Refinitiv Data Library for Python*.
 
 ***Note:** To [ask questions](https://community.developers.refinitiv.com/index.html) and benefit from the learning material, I recommend you to register on the [Refinitiv Developer Community](https://developers.refinitiv.com)*
 
@@ -27,6 +27,7 @@ Download and upload the notebooks within the same directory.  Run the SearchBrow
 ### <a id="authors"></a>Authors
 
 * **Nick Zincone** - Release 1.0.  *Initial version*
+* **Nick Zincone** - Release 1.1.  *To reflect new RD Lib version*
 
 
 
